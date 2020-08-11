@@ -1,0 +1,19 @@
+.tile-design {
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    vertical-align: middle;
+    line-height: 1.5;
+    border-radius: .25rem;
+    padding: .375rem .75rem;
+}
+
+.letter-col {
+    background-color: dimgrey;
+    color: white;
+}
+
+.board {
+    height: 440px;
+    overflow: hidden;
+}

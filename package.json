@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
     "next": "9.3.5",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scroll": "^1.7.16",
+    "react-to-target-auto-scroll": "^1.0.5",
+    "reactstrap": "^8.4.1",
+    "rxjs": "^6.5.5"
   }
 }
